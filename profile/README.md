@@ -1,7 +1,13 @@
-# Hi, we're the neuron foundation!
+<div>
 
-We're a research and development foundation with ~~people from all around the world!~~ 1 person from the UK and one from lithuania
+[Discord](https://discord.gg/CMrzSVWNgS) 
 
-## Our main ventures atm:
-1. outcast - protecting our right to information and people, made for activists, protesters and anyone else.
-2. Saturday (Research) - We go bonkers for the world (research purposes!), with us trying to push and test basically almost everything
+### neuron is an independant culturistic software company engineered by @embeputer and @blahajcoding
+
+we're makers of outcast!
+
+most of our codebases are open-source for the sake of transparency, self-hosting and privacy/trust
+
+</div>
+
+[Discord]: https://img.shields.io/discord/1485647436063178873?logo=discord&logoColor=eee&label=Discord&labelColor=464ce5&color=fff&cacheSeconds=43200
