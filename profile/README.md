@@ -2,9 +2,9 @@
 
 [Discord](https://discord.gg/CMrzSVWNgS) 
 
-### neuron is an independant culturistic software company engineered by @embeputer and @blahajcoding
+**neuron** is an independant culturistic software company engineered by **@embeputer** and **@blahajcoding**
 
-we're makers of outcast!
+we're makers of **outcast**!
 
 most of our codebases are open-source for the sake of transparency, self-hosting and privacy/trust
 
